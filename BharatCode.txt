@@ -1,0 +1,30 @@
+PROJECT NAME: DataPilot AI
+
+PROJECT CATEGORY: Work & Automation
+
+PROJECT DESCRIPTION:
+
+DataPilot AI is an AI-powered data analytics
+application designed to simplify the data
+analysis process.
+
+It uses Python-based data analytics and
+visualization technologies to help users
+understand datasets and generate meaningful
+insights.
+
+TECHNOLOGIES:
+Python
+Pandas
+NumPy
+Scikit-learn
+Gradio
+Matplotlib
+Seaborn
+Plotly
+
+AI INTEGRATION:
+BharatCode API (only if actually integrated).
+
+DEVELOPER:
+Mohamed Mujeeb Chana
